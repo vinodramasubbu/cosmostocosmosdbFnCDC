@@ -1,0 +1,5 @@
+C:\AzureFunctions\cosmostocosmosdb\obj\Debug\netcoreapp3.1\cosmostocosmosdb.csproj.AssemblyReference.cache
+C:\AzureFunctions\cosmostocosmosdb\obj\Debug\netcoreapp3.1\cosmostocosmosdb.GeneratedMSBuildEditorConfig.editorconfig
+C:\AzureFunctions\cosmostocosmosdb\obj\Debug\netcoreapp3.1\cosmostocosmosdb.AssemblyInfoInputs.cache
+C:\AzureFunctions\cosmostocosmosdb\obj\Debug\netcoreapp3.1\cosmostocosmosdb.AssemblyInfo.cs
+C:\AzureFunctions\cosmostocosmosdb\obj\Debug\netcoreapp3.1\cosmostocosmosdb.csproj.CoreCompileInputs.cache
